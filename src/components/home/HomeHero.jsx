@@ -6,7 +6,7 @@ import LogoMark from "../ui/LogoMark.jsx";
 
 export default function HomeHero({ meta, intro }) {
   const heroVideo = buildSlotCandidates("/media/home/hero-video", 1, true);
-
+  
   return (
     <section className="home-hero" id="top">
       <div className="hero-video-layer" aria-hidden="true">
