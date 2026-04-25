@@ -61,7 +61,7 @@ export default function DevlogEntry({ entry }) {
             </div>
 
             <div className="devlog-entry__block">
-              <h3>Por que importa esta version</h3>
+              <h3>Descripción</h3>
               <p>{entry.longDescription}</p>
             </div>
           </div>

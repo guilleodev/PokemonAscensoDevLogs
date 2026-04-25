@@ -6,14 +6,14 @@ export const devlogs = [
     realFolder: "v1",
     stage: "Cimientos",
     summary:
-      "La primera base jugable establece combate, flujo por fases, navegacion con teclado y raton, y una estructura modular preparada para crecer.",
+      "La primera base jugable establece combate, flujo por fases, navegación con teclado y ratón, y una estructura modular preparada para crecer.",
     highlights: [
-      "Nace el flujo principal de combate y progresion",
-      "Se construyen los primeros menus clave del proyecto",
+      "Nace el flujo principal de combate y progresión",
+      "Se construyen los primeros menús clave del proyecto",
       "La base de datos inicial deja preparado el roster temprano"
     ],
     longDescription:
-      "Esta build representa el momento en que Pokemon Ascenso deja de ser una idea difusa y se convierte en un prototipo jugable. Todavia prima la estructura sobre la presentacion, pero ya estan las piezas que despues sostendran todo el proyecto: combate por turnos, escenas enlazadas, menus clave y una base modular para seguir creciendo.",
+      "Esta build representa el momento en que Pokemon Ascenso deja de ser una idea difusa y se convierte en un prototipo jugable. Todavía prima la estructura sobre la presentación, pero ya estan las piezas que después sostendrán todo el proyecto: combate por turnos, escenas enlazadas, menús clave y una base modular para seguir creciendo.",
     media: []
   },
   {
@@ -23,17 +23,17 @@ export const devlogs = [
     realFolder: "v3.6",
     stage: "Cimientos",
     summary:
-      "El prototipo empieza a sentirse como una partida real gracias al guardado y a la llegada de una capa visual mucho mas reconocible.",
+      "El prototipo empieza a sentirse como una partida real gracias al guardado y a la llegada de una capa visual mucho más reconocible.",
     highlights: [
       "Se rediseña el estilo de la escena de combate",
       "Se le da utilidad a los botones de la barra inferior",
       "Se edita la escena de Equipo",
-      "Se anaden ranuras de guardado",
+      "Se añaden ranuras de guardado",
       "Entran muchos sprites reales de Pokemon",
-      "El sistema de combate gana una base mas clara para tipos y objetos"
+      "El sistema de combate gana una base más clara para tipos y objetos"
     ],
     longDescription:
-      "El proyecto da aqui su primer salto de madurez. El guardado introduce continuidad, mientras que la llegada de mas sprites reales empieza a sustituir la sensacion de placeholder por una de identidad temprana. Es la primera version que sugiere una partida reconocible y no solo una prueba de sistemas.",
+      "El proyecto da aquí su primer salto de madurez. El guardado introduce continuidad, mientras que la llegada de más sprites reales empieza a sustituir la sensación de placeholder por una de identidad temprana. Es la primera versión que sugiere una partida reconocible y no solo una prueba de sistemas.",
     media: []
   },
   {
@@ -52,7 +52,7 @@ export const devlogs = [
       "Se realiza un primer prototipo de la tienda"
     ],
     longDescription:
-      "Con esta build, Pokemon Ascenso encuentra un bucle de juego mucho mas claro. Capturar ya no es una accion aislada dentro del combate, sino una parte real de la progresion. El equipo, la caja y la Pokedex empiezan a formar una cadena coherente.",
+      "Con esta build, Pokemon Ascenso encuentra un bucle de juego mucho más claro. Capturar ya no es una accion aislada dentro del combate, sino una parte real de la progresión. El equipo, la caja y la Pokedex empiezan a formar una cadena coherente.",
     media: []
   },
   {
@@ -62,14 +62,14 @@ export const devlogs = [
     realFolder: "v24.3",
     stage: "Sistemas",
     summary:
-      "La experiencia fuera del combate gana peso con una Pokedex mas rica, una tienda mas visual y una gestion de objetos mucho mejor integrada.",
+      "La experiencia fuera del combate gana peso con una Pokedex mas rica, una tienda más visual y una gestion de objetos mucho mejor integrada.",
     highlights: [
       "Se anade la vista de detalle de Pokemon",
-      "La tienda gana iconos, mejor lectura y mas presencia",
+      "La tienda gana iconos, mejor lectura y más presencia",
       "El inventario pasa a sentirse como parte importante de la run"
     ],
     longDescription:
-      "La experiencia fuera del combate gana mucho peso aqui. La Pokedex, la tienda y la gestion de objetos dejan de sentirse como accesorios y pasan a ser una capa muy visible del proyecto. Esta version hace que la aventura se juegue tambien entre combates.",
+      "La experiencia fuera del combate gana mucho peso aquí. La Pokedex, la tienda y la gestión de objetos dejan de sentirse como accesorios y pasan a ser una capa muy visible del proyecto. Esta versión hace que la aventura se juegue también entre combates.",
     media: []
   },
   {
@@ -77,12 +77,12 @@ export const devlogs = [
     publicVersion: "v0.2.5",
     title: "Pase de identidad visual",
     realFolder: "v40.10",
-    stage: "Presentacion",
+    stage: "Presentación",
     summary:
-      "El combate deja atras el aspecto provisional y empieza a construir una identidad visual mucho mas propia.",
+      "El combate deja atrás el aspecto provisional y empieza a construir una identidad visual mucho más propia.",
     highlights: [
       "Nuevas fuentes y marcos visuales de batalla",
-      "Fondos por fase que refuerzan la sensacion de recorrido",
+      "Fondos por fase que refuerzan la sensación de recorrido",
       "El aprendizaje de movimientos entra como momento importante del progreso"
     ],
     longDescription:
@@ -92,25 +92,25 @@ export const devlogs = [
   {
     slug: "v0-3-5-actualizacion-tactica-de-combate",
     publicVersion: "v0.3.5",
-    title: "Actualizacion tactica de combate",
+    title: "Actualización táctica de combate",
     realFolder: "v58",
     stage: "Profundidad de combate",
     summary:
-      "El sistema de combate gana informacion tactica, cambios forzados y una lectura mucho mas profunda del estado del equipo.",
+      "El sistema de combate gana información táctica, cambios forzados y una lectura mucho más profunda del estado del equipo.",
     highlights: [
       "Se puede consultar mejor el equipo dentro de la batalla",
       "Aparece el cambio forzado al debilitarse un Pokemon",
-      "Estados y movimientos ganan una presentacion mas rica",
+      "Estados y movimientos ganan una presentación más rica",
       "Se prueban fondos de batalla"
     ],
     longDescription:
-      "La profundidad tactica sube bastante con esta build. El jugador puede leer mejor al equipo, reaccionar a situaciones criticas y tomar decisiones con mas contexto. El combate empieza a apoyarse mucho mas en la informacion y en la gestion activa.",
+      "La profundidad tactica sube bastante con esta build. El jugador puede leer mejor al equipo, reaccionar a situaciones criticas y tomar decisiones con mas contexto. El combate empieza a apoyarse mucho mas en la información y en la gestión activa.",
     media: []
   },
   {
     slug: "v0-4-0-estados-y-recuperacion",
     publicVersion: "v0.4.0",
-    title: "Estados y recuperacion",
+    title: "Estados y recuperación",
     realFolder: "v76",
     stage: "Pulido",
     summary:
@@ -121,7 +121,7 @@ export const devlogs = [
       "Rediseño con fondos propios para escenas de Tienda y Pokedex"
     ],
     longDescription:
-      "Esta build pule mucho la comodidad de la experiencia. No es la mas espectacular, pero si una de las que mas ayuda a que el jugador entienda su estado, revise su equipo y avance con menos friccion entre secciones del juego.",
+      "Esta build pule mucho la comodidad de la experiencia. No es la más espectacular, pero si una de las que mas ayuda a que el jugador entienda su estado, revise su equipo y avance con menos fricción entre secciones del juego.",
     media: []
   },
   {
@@ -133,8 +133,8 @@ export const devlogs = [
     summary:
       "Pokemon Ascenso deja de empezar directamente en combate y construye un arranque con avatar, nombre y laboratorio.",
     highlights: [
-      "Se anade una introduccion real de nueva partida",
-      "Llegan la seleccion de avatar y el nombre del personaje",
+      "Se añade una introducción real de nueva partida",
+      "Llegan la selección de avatar y el nombre del personaje",
       "El laboratorio del profesor da contexto al inicio de la aventura",
       "Se mejora el método de captura añadiendo visualmente animaciones",
       "Se añaden sprites de varios personajes y animaciones en combate"
@@ -157,24 +157,24 @@ export const devlogs = [
       "El roster y los fondos de combate crecen con fuerza"
     ],
     longDescription:
-      "El proyecto reorganiza la progresion en algo mucho mas memorable. Ya no se percibe como una secuencia abstracta de fases, sino como un recorrido con lugares, rivales y grandes hitos. La aventura adquiere una forma muy clara.",
+      "El proyecto reorganiza la progresión en algo mucho mas memorable. Ya no se percibe como una secuencia abstracta de fases, sino como un recorrido con lugares, rivales y grandes hitos. La aventura adquiere una forma muy clara.",
     media: []
   },
   {
     slug: "v0-6-0-actualizacion-de-audio-y-atmosfera",
     publicVersion: "v0.6.0",
-    title: "Actualizacion de audio y atmosfera",
+    title: "Actualización de audio y atmósfera",
     realFolder: "v97.3",
-    stage: "Atmosfera",
+    stage: "Atmósfera",
     summary:
-      "Musica, efectos, cries y una presentacion mas cinematografica convierten el avance del proyecto en una experiencia mucho mas viva.",
+      "Musica, efectos, cries y una presentacion mas cinematográfica convierten el avance del proyecto en una experiencia mucho más viva.",
     highlights: [
-      "Llega musica para menus, rutas y combates",
+      "Llega música para menús, rutas y combates",
       "Los Pokemon reciben cries y la UI suma SFX",
-      "El menu principal y las intros ganan una puesta en escena mas fuerte"
+      "El menú principal y las intros ganan una puesta en escena mas fuerte"
     ],
     longDescription:
-      "La presentacion audiovisual da aqui uno de los mayores saltos del proyecto. Sonido, ritmo y atmosfera empujan mucho la sensacion de calidad general. Esta build convierte el progreso tecnico anterior en una experiencia mucho mas viva y expresiva.",
+      "La presentación audiovisual da aqui uno de los mayores saltos del proyecto. Sonido, ritmo y atmósfera empujan mucho la sensación de calidad general. Esta build convierte el progreso tecnico anterior en una experiencia mucho mas viva y expresiva.",
     media: []
   }
 ];
