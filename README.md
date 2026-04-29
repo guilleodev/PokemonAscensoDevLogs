@@ -1,7 +1,7 @@
 # PokemonAscensoDevLogs
 
 <a href="https://steamprofile.netlify.app">
-<img src="https://raw.githubusercontent.com/guilleodev/PokemonAscensoDevLogs/tree/main/public/media/capturaPokemonAscensoDevLogs1.png" width="700" />
+<img src="https://raw.githubusercontent.com/guilleodev/PokemonAscensoDevLogs/main/public/media/capturaPokemonAscensoDevLogs3.png" width="700" />
 </a>
 
 Pokémon Ascenso Dev Logs es una plataforma web donde se documenta el desarrollo del videojuego Pokémon Ascenso, un proyecto fan inspirado en los combates de la saga Pokémon.
